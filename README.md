@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-ZX81/blob/master/retroarch/overlay/GameBezels/ZX81/Alien%20(19xx).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-ZX81/blob/master/retroarch/overlay/GameBezels/ZX81/Alien%20(19xx)(-).png?raw=true)
